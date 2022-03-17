@@ -25,7 +25,6 @@
     <Folder Include="Models\ViewsComponents\" />
     <Folder Include="wwwroot\sass\" />
     <Folder Include="Domain\" />
-    <Folder Include="Service\" />
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
@@ -33,5 +32,7 @@
     <None Include="bundleconfig.json" />
     <None Include="compilerconfig.json" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>
